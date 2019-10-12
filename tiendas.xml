@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2019-10-12T09:36:35">
+<tiendas>
+<idtienda>1</idtienda>
+<nbtienda>tienda A</nbtienda>
+<idalcaldia>1</idalcaldia>
+</tiendas>
+<tiendas>
+<idtienda>2</idtienda>
+<nbtienda>tienda B</nbtienda>
+<idalcaldia>3</idalcaldia>
+</tiendas>
+<tiendas>
+<idtienda>3</idtienda>
+<nbtienda>tienda C</nbtienda>
+<idalcaldia>2</idalcaldia>
+</tiendas>
+<tiendas>
+<idtienda>4</idtienda>
+<nbtienda>tienda D</nbtienda>
+<idalcaldia>6</idalcaldia>
+</tiendas>
+<tiendas>
+<idtienda>5</idtienda>
+<nbtienda>tienda E</nbtienda>
+<idalcaldia>3</idalcaldia>
+</tiendas>
+<tiendas>
+<idtienda>6</idtienda>
+<nbtienda>tienda F</nbtienda>
+<idalcaldia>6</idalcaldia>
+</tiendas>
+<tiendas>
+<idtienda>7</idtienda>
+<nbtienda>tienda G</nbtienda>
+<idalcaldia>4</idalcaldia>
+</tiendas>
+<tiendas>
+<idtienda>8</idtienda>
+<nbtienda>tienda H</nbtienda>
+<idalcaldia>7</idalcaldia>
+</tiendas>
+<tiendas>
+<idtienda>9</idtienda>
+<nbtienda>tienda I</nbtienda>
+<idalcaldia>5</idalcaldia>
+</tiendas>
+<tiendas>
+<idtienda>10</idtienda>
+<nbtienda>tienda J</nbtienda>
+<idalcaldia>8</idalcaldia>
+</tiendas>
+<tiendas>
+<idtienda>11</idtienda>
+<nbtienda>tienda K</nbtienda>
+<idalcaldia>5</idalcaldia>
+</tiendas>
+<tiendas>
+<idtienda>12</idtienda>
+<nbtienda>tienda L</nbtienda>
+<idalcaldia>1</idalcaldia>
+</tiendas>
+<tiendas>
+<idtienda>13</idtienda>
+<nbtienda>tienda M</nbtienda>
+<idalcaldia>2</idalcaldia>
+</tiendas>
+<tiendas>
+<idtienda>14</idtienda>
+<nbtienda>tienda N</nbtienda>
+<idalcaldia>8</idalcaldia>
+</tiendas>
+<tiendas>
+<idtienda>15</idtienda>
+<nbtienda>tienda O</nbtienda>
+<idalcaldia>7</idalcaldia>
+</tiendas>
+<tiendas>
+<idtienda>16</idtienda>
+<nbtienda>tienda P</nbtienda>
+<idalcaldia>8</idalcaldia>
+</tiendas>
+<tiendas>
+<idtienda>17</idtienda>
+<nbtienda>Tienda Q</nbtienda>
+<idalcaldia>2</idalcaldia>
+</tiendas>
+</dataroot>
