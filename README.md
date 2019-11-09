@@ -1,7 +1,7 @@
 # Modelos bases de datos
 Bienvenidos al repositorio del curso de modelos de bases de datos. Aquí encontrarás recursos necesarios para los ejercicios.
 
-1. entra a githum.com/polizona/modelos
+1. entra a github.com/polizona/modelos
 
 2. descarga los scripts de carga para las tablas de embarques y financieras
 
